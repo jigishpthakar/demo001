@@ -1,4 +1,18 @@
 # demo 001
-This application is only supported on Ubuntu 18.04.
+This is a simple demo code to respond json on http.
 
-Use below command to 
+### Steps
+
+1. Clone this repository on server
+
+2. execute below command 
+
+   ```bash 
+   /bin/bash install.sh
+   ```
+
+   
+
+> Kindly note, do not execute this command on any production server.
+>
+> please read the content of install.sh before executing it.
